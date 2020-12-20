@@ -5,3 +5,7 @@ draft: false
 ---
 
 # Welcome to a fun and creative place for emoji domains
+
+Everyone loves Emoji! Now, you can own your emoji domain - get started today!
+
+Here’s a list of our current emoji
