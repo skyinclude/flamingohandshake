@@ -8,7 +8,7 @@ draft: false
 
 Everyone loves Emoji! Now, you can own your emoji domain - get started today!
 
-![LoveEmoji](love-emoji.jpg)
+![](love-emoji.jpg)
 
 Here’s a list of our current emoji
 
